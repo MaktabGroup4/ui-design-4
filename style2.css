@@ -1,0 +1,10 @@
+.cardi{
+    /* display: flex; */
+    background-color: #eee;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #0000008f;
+}
+.columns{
+    padding: 10px;
+}
